@@ -1,5 +1,5 @@
 # IPTask
-Pobierz plik listWidget.js. Umiesć go na swojej stronie internetowej: 
+Pobierz plik listWidget.js. Umieść go na swojej stronie internetowej: 
 ```
 <script src="listWidget.js"></script>
 ```
