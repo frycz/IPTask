@@ -1,5 +1,5 @@
 # IPTask
-Skrypt pobiera listę paczkomatów z API, zapisuje ją w localStorage oraz wyświetla je w formie listy wyboru. Jeżeli dane zostały wcześniej pobana z API i zapisane, będą one pobierane z localStorage.
+Skrypt pobiera listę paczkomatów z API, zapisuje ją w localStorage oraz wyświetla je w formie listy wyboru. Jeżeli dane zostały wcześniej pobrane z API i zapisane, będą one pobierane z localStorage.
 ## Instalacja na stronie
 Pobierz plik listWidget.js. Umieść go na swojej stronie internetowej: 
 ```
