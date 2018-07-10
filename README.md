@@ -41,7 +41,7 @@ git clone https://github.com/frycz/IPTask.git
 ```
 - przejdź do katalogu z przykładem
 ```
-cd example
+cd IPTask/example/
 ```
 - uruchom dowolny serwer http. Polecam [http-server]( https://github.com/indexzero/http-server)
 ```
